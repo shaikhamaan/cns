@@ -1,0 +1,21 @@
+Please enter 2 prime number and e and Message to Encript
+2 random prime numbers selected are 31 47
+Product of two prime number n is 1457
+Taken e is 7
+phi is 1380
+Final e value is 7
+0 7 1380 7 1 0 1 0 1 0
+197 1380 7 1 0 1 -197 1 0 1
+7 7 1 0 1 -197 1380 0 1 -7
+inverse is1183
+d is 1183
+
+so now our publissc key is <7,1457>
+
+so now our private key is <1183,1457>
+
+Message date is amaan
+
+encripted Message is 1,1355,1,1,1011,
+
+Message after decription is amaan
